@@ -6,8 +6,18 @@ It’s a **decentralized remittance platform built on Solana**, designed to make
 Rampa enables users to:
 - 🌍 On-ramp fiat into stablecoins (USDC/EURC)
 - 💸 Send and receive stablecoins using the power of Solana!
-- 🏦 Off-ramp to local currencies in the recipient’s country
+- 🏦 Off-ramp to local currencies in the recipient's country
 - 🔒 Abstract away crypto complexity through a smooth, user-friendly UX
+
+---
+
+## 🔗 Links & Social Media
+
+- 🌐 **Website:** [rampa.cash](https://rampa.cash)
+- 📘 **Facebook:** [facebook.com/go.rampacash](https://www.facebook.com/go.rampacash)
+- 📷 **Instagram:** [instagram.com/rampa.cash](https://www.instagram.com/rampa.cash)
+- 💼 **LinkedIn:** [linkedin.com/company/rampa-cash](https://www.linkedin.com/company/rampa-cash/)
+- 🐦 **X (Twitter):** [x.com/rampa_cash](https://x.com/rampa_cash)
 
 ---
 
@@ -87,7 +97,7 @@ To run the full stack locally:
 ## 🎥 Demo & Materials
 
 - 🎬 [Demo video](https://...)  
-- 🖼️ [Pitch deck or slides](https://...)
+- 🖼️ [Pitch deck](https://www.youtube.com/watch?v=jWA5FdKvcLk)
 
 ---
 
