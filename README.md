@@ -97,7 +97,7 @@ To run the full stack locally:
 ## 🎥 Demo & Materials
 
 - 🎬 [Demo video](https://youtu.be/htyF1RL2hms)  
-- 🖼️ [Pitch deck](https://youtu.be/RhoQbIFk3dQ)
+- 🖼️ [Pitch deck](https://youtu.be/tejuJBi1Kec)
 
 ---
 
