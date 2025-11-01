@@ -1,13 +1,18 @@
 # 🪙 Rampa — Cypherpunk Hackathon 2025 Submission 🚀
 
 **Rampa** is our submission for the **Colosseum's Cypherpunk Hackathon 2025**.  
-It’s a **decentralized remittance platform built on Solana**, designed to make cross-border transfers as easy as sending a message — simple, secure, and crypto-powered under the hood.
 
-Rampa enables users to:
-- 🌍 On-ramp fiat into stablecoins (USDC/EURC)
-- 💸 Send and receive stablecoins using the power of Solana!
-- 🏦 Off-ramp to local currencies in the recipient's country
-- 🔒 Abstract away crypto complexity through a smooth, user-friendly UX
+Rampa is an on-chain remittance platform built on Solana that turns **stablecoin transfers** into shared prosperity, empowering families to thrive through **financial education** and a **tokenized investment portfolio**.
+ 
+- 💸 Fast & Low-Cost: Send money from Europe → LATAM in minutes via Solana stablecoin rails.
+ 
+- 🔎 Transparent: Pre-trade FX shown upfront, no hidden fees.
+ 
+- 🔒 Simple & Secure: Non-custodial MPC wallet that feels like Web2.
+ 
+- 💳 Flexible Use: Receivers can spend instantly with a virtual card, cash out locally, or auto-invest a portion into a tokenized family portfolio.
+ 
+- 👉 Turning routine remittances into family wealth-building.
 
 ---
 
